@@ -13,4 +13,7 @@ table {
   font-family: goudyoldstyle;
   }
 
+a:hover {
+  background-color: yellow;
+}
     
